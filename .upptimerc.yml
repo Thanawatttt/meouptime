@@ -23,7 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: meostatus
-  theme: night
+  theme: ocean
   introTitle: "MEOSTATUS"
   introMessage: status page
   navbar:

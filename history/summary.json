@@ -1,20 +1,62 @@
 [
   {
     "name": "BPK-1",
-    "url": "bpk1.meo.pp.ua",
+    "url": "$bpk1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bpk-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 257,
     "timeDay": 257,
     "timeWeek": 257,
     "timeMonth": 257,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
+  },
+  {
+    "name": "BPK-2",
+    "url": "$bpk2",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "bpk-2",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
+  },
+  {
+    "name": "API PAYMENT",
+    "url": "$apipayment",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "api-payment",
+    "status": "down",
+    "uptime": "13.12%",
+    "uptimeDay": "13.12%",
+    "uptimeWeek": "13.12%",
+    "uptimeMonth": "13.12%",
+    "uptimeYear": "13.12%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
   }
 ]

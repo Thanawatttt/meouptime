@@ -14,7 +14,7 @@ sites:
     check: "tcp-ping"
     ipv6: false
   - name: API PAYMENT
-    url: https://api.meo.pp.ua
+    url: https://api.meo.pp.ua/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

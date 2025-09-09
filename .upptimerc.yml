@@ -4,17 +4,17 @@ repo: meouptime # The name of this repository
 
 sites:
   - name: BPK-1
-    url: $bpk1
+    url: bpk1.meo.pp.ua
     port: 22
     check: "tcp-ping"
     ipv6: false
   - name: BPK-2
-    url: $bpk2
+    url: bpk2.meo.pp.ua
     port: 2222
     check: "tcp-ping"
     ipv6: false
   - name: API PAYMENT
-    url: $apipayment
+    url: https://api.meo.pp.ua
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

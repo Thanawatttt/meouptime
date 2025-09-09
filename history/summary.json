@@ -1,22 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "$bpk1server",
+    "name": "BPK-1",
+    "url": "bpk1.meo.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "google",
-    "status": "down",
+    "slug": "bpk-1",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 105,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
-    "dailyMinutesDown": {
-      "2025-09-09": 0
-    }
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
+    "dailyMinutesDown": {}
   }
 ]

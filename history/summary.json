@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bpk-1",
     "status": "up",
-    "uptime": "82.75%",
-    "uptimeDay": "82.75%",
-    "uptimeWeek": "82.75%",
-    "uptimeMonth": "82.75%",
-    "uptimeYear": "82.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 251,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
-    "dailyMinutesDown": {
-      "2025-09-09": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BPK-2",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bpk-2",
     "status": "up",
-    "uptime": "1.66%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "1.66%",
-    "uptimeMonth": "1.66%",
-    "uptimeYear": "1.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 242,
     "timeDay": 242,
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2025-09-09": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API PAYMENT",
@@ -45,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.meo.pp.ua.ico",
     "slug": "api-payment",
     "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 866,
     "timeDay": 866,
     "timeWeek": 866,

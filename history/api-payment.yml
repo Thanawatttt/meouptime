@@ -1,7 +1,7 @@
 url: https://api.meo.pp.ua/status
-status: down
-code: 500
-responseTime: 684
-lastUpdated: 2025-11-18T11:42:53.350Z
+status: up
+code: 200
+responseTime: 896
+lastUpdated: 2025-11-18T12:21:57.260Z
 startTime: 2025-09-09T04:44:01.528Z
 generator: Upptime <https://github.com/upptime/upptime>
